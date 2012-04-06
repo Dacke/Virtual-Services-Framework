@@ -1,0 +1,32 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSF.Services.Windows", "VSF.Services.Windows\VSF.Services.Windows.csproj", "{BC6D6898-D56B-47E2-8625-00B2C9419AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSF.Services", "VSF.Services\VSF.Services.csproj", "{9FE38B4D-F727-4099-A913-CA433FA13620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSF.Services.VirtualServices", "VSF.Services.VirtualServices\VSF.Services.VirtualServices.csproj", "{D87195E0-7782-4507-B296-2C31294F8462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6D6898-D56B-47E2-8625-00B2C9419AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6D6898-D56B-47E2-8625-00B2C9419AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6D6898-D56B-47E2-8625-00B2C9419AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6D6898-D56B-47E2-8625-00B2C9419AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE38B4D-F727-4099-A913-CA433FA13620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE38B4D-F727-4099-A913-CA433FA13620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE38B4D-F727-4099-A913-CA433FA13620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE38B4D-F727-4099-A913-CA433FA13620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87195E0-7782-4507-B296-2C31294F8462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87195E0-7782-4507-B296-2C31294F8462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87195E0-7782-4507-B296-2C31294F8462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87195E0-7782-4507-B296-2C31294F8462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

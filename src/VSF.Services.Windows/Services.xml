@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Services>
+  <Service ServiceName="MetadataService">
+    <Type>VSF.Services.VirtualServices.MetadataService</Type>
+    <Assembly>VSF.Services.VirtualServices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=305a000088c84208</Assembly>
+  </Service>
+</Services>
